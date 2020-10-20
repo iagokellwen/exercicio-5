@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603202582 source:c:\users\iago_\onedrive\Área de trabalho\unipe\projeto c\ex 6.3\main.c
+	<stdio.h>
+	<locale.h>
+
